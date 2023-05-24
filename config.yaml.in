@@ -1,0 +1,44 @@
+baseURL: https://numpy.org/
+languageCode: en-us
+theme: scientific-python-hugo-theme
+disableKinds: ["taxonomy", "term"]
+DefaultContentLanguage: en
+
+markup:
+  highlight:
+    noClasses: false
+
+# Uncomment this to disable the translations for the specified languages.
+# This may be useful to be able to merge partial translations without deploying
+# them to numpy.org immediately.
+disableLanguages: ["zh"]
+
+params:
+  images:
+  - /images/logo.svg
+  navColor: blue
+  font:
+    name: "Lato"
+    sizes: [400,900]
+
+
+languages:
+  en:
+    title: Test Website
+    weight: 1
+    contentDir: content/en
+    < content/en/config.yaml >
+  
+  # Spanish
+  es:
+    title: Sitio web de pruebas
+    weight: 2
+    contentDir: content/es
+    < content/es/config.yaml >
+
+  # Chinese
+  zh:
+    title: 测试网站
+    weight: 3
+    contentDir: content/zh
+    < content/zh/config.yaml >
