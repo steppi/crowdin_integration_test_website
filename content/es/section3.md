@@ -1,6 +1,6 @@
 ---
-title: Section 3
+title: Sección 3
 sidebar: false
 ---
 
-Buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo.
+Los búfalos de Buffalo que confunden a otros búfalos de Buffalo, confunden a su vez a más búfalos de Buffalo.
