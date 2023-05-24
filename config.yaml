@@ -9,6 +9,7 @@ markup:
   highlight:
     noClasses: false
 
+
 params:
   description: "Sandbox for testing crowdin integration with a hugo site."
   images:
@@ -20,13 +21,6 @@ params:
   hero:
     title: Test Website
     image: logo.svg
-  navbar:
-    - title: Section 1
-      url: /section1/
-    - title: Section 2
-      url: /section2/
-    - title: Section 3
-      url: /section3/
   keyfeatures:
     features:
       - title: Crowdin Integration
@@ -35,19 +29,34 @@ params:
         text: This is just a test site.
       - title: Stuff
         text: Some stuff goes here.
-  footer:
-    logo: logo.svg
-    quicklinks:
-      column1:
-        title: ""
-        links:
-          - text: About
-            link: /about/
-          - text: Spam
-            link: https://en.wikipedia.org/wiki/Spam_(food)
-      column2:
-        links:
-          - text: Spam
-            link: https://en.wikipedia.org/wiki/Spam_(Monty_Python_sketch)
-      column3:
-        links:
+
+
+languages:
+  en:
+    title: Test Website
+    languageName: English
+    weight: 1
+    contentDir: content/en
+    navbar:
+      - title: Section 1
+        url: /section1/
+      - title: Section 2
+        url: /section2/
+      - title: Section 3
+        url: /section3/
+    footer:
+      logo: logo.svg
+      quicklinks:
+        column1:
+          title: ""
+          links:
+            - text: About
+              link: /about/
+            - text: Spam
+              link: https://en.wikipedia.org/wiki/Spam_(food)
+        column2:
+          links:
+            - text: Spam
+              link: https://en.wikipedia.org/wiki/Spam_(Monty_Python_sketch)
+        column3:
+          links:
