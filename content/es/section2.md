@@ -1,8 +1,8 @@
 ---
-title: Section 2
+title: Sección 2
 sidebar: false
 ---
 
-’Twas brillig, and the slithy toves Did gyre and gimble in the wabe: All mimsy were the borogoves, And the mome raths outgrabe.
+Era la asarvesperia y los flexilimosos toves giroscopiaban taledrando en el vade; debilmiseros estaban los borogoves; bramatchisilban los verdilechos parde.
 
-“Beware the Jabberwock, my son! The jaws that bite, the claws that catch! Beware the Jubjub bird, and shun The frumious Bandersnatch!” 
+¡Cuidado con el Jabberwocky, hijo mío! ¡Cuídate de las mandíbulas que muerden. de las garras que apresan! Cuídate del pájaro Rapiña y del altanero Halcón 
