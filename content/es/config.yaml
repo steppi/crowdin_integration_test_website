@@ -1,30 +1,35 @@
-languageName: English
+languageName: Español
 params:
-  description: "Sandbox for testing crowdin integration with a hugo site."
+  description: "Área de pruebas para probar la integración de Crowdin con un sitio Hugo."
   images:
     - /images/logo.svg
   navbarlogo:
     image: logo.svg
-    text: Test Website
+    text: Sitio web de pruebas
     link: /
   hero:
-    title: Test Website
+    title: Sitio web de pruebas
     image: logo.svg
   keyfeatures:
     features:
-      - title: Crowdin Integration
-        text: Integrated with [Crowdin](https://crowdin.com)
-      - title: Test Website
-        text: This is just a test site.
-      - title: Stuff
+      - 
+        title: Integración de Crowdin
+        text: Integrado con [Crowdin](https://crowdin.com)
+      - 
+        title: Sitio web de pruebas
+        text: Este es solo un sitio de prueba.
+      - 
+        title: Stuff
         text: Some stuff goes here.
-
 navbar:
-  - title: Section 1
+  - 
+    title: Section 1
     url: /section1/
-  - title: Section 2
+  - 
+    title: Section 2
     url: /section2/
-  - title: Section 3
+  - 
+    title: Section 3
     url: /section3/
 footer:
   logo: logo.svg
@@ -32,13 +37,15 @@ footer:
     column1:
       title: ""
       links:
-        - text: About
+        - 
+          text: About
           link: /about/
-        - text: Spam
-          link: https://en.wikipedia.org/wiki/Spam_(food)
     column2:
-      links:
-        - text: Spam
-          link: https://en.wikipedia.org/wiki/Spam_(Monty_Python_sketch)
+      - 
+        text: Spam
+        link: https://en.wikipedia.org/wiki/Spam_(food)
     column3:
       links:
+        - 
+          text: Spam
+          link: https://en.wikipedia.org/wiki/Spam_(Monty_Python_sketch)
