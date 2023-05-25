@@ -40,12 +40,13 @@ footer:
         - 
           text: Sobre
           link: /about/
+        - 
+          text: Spam
+          link: https://en.wikipedia.org/wiki/Spam_(food)
     column2:
-      - 
-        text: Spam
-        link: https://es.wikipedia.org/wiki/Spam_(alimento)
-    column3:
       links:
         - 
           text: Spam
-          link: https://es.wikipedia.org/wiki/Spam_(Monty_Python)
+          link: https://en.wikipedia.org/wiki/Spam_(Monty_Python_sketch)
+    column3:
+      links:
