@@ -6,7 +6,7 @@ params:
   navbarlogo:
     image: logo.svg
     text: Sitio web de pruebas
-    link: /
+    link: /es/
   hero:
     title: Sitio web de pruebas
     image: logo.svg
@@ -20,11 +20,11 @@ params:
         text: Algunas cosas van aquí.
 navbar:
   - title: Sección 1
-    url: /section1/
+    url: /es/section1/
   - title: Sección 2
-    url: /section2/
+    url: /es/section2/
   - title: Sección 3
-    url: /section3/
+    url: /es/section3/
 footer:
   logo: logo.svg
   quicklinks:
@@ -32,7 +32,7 @@ footer:
       title: ""
       links:
         - text: Sobre
-          link: /about/
+          link: /es/about/
     column2:
       links:
       - text: Spam
