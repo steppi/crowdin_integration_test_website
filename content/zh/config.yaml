@@ -12,18 +12,24 @@ params:
     image: logo.svg
   keyfeatures:
     features:
-      - title: Crowdin Integration
+      - 
+        title: Crowdin Integration
         text: Integrated with [Crowdin](https://crowdin.com)
-      - title: Test Website
+      - 
+        title: Test Website
         text: This is just a test site.
-      - title: Stuff
+      - 
+        title: Stuff
         text: Some stuff goes here.
 navbar:
-  - title: Section 1
+  - 
+    title: Section 1
     url: /section1/
-  - title: Section 2
+  - 
+    title: Section 2
     url: /section2/
-  - title: Section 3
+  - 
+    title: Section 3
     url: /section3/
 footer:
   logo: logo.svg
@@ -31,13 +37,15 @@ footer:
     column1:
       title: ""
       links:
-        - text: About
+        - 
+          text: About
           link: /about/
     column2:
-      links:
-      - text: Spam
+      - 
+        text: Spam
         link: https://en.wikipedia.org/wiki/Spam_(food)
     column3:
       links:
-        - text: Spam
+        - 
+          text: Spam
           link: https://en.wikipedia.org/wiki/Spam_(Monty_Python_sketch)
